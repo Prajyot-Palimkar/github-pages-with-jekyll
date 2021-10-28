@@ -1,1 +1,4 @@
-This text is the sample text of this page.
+---
+title: "my-first-blog-post"
+date: 2021-10-28
+---
